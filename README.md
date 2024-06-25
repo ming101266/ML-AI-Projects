@@ -5,8 +5,8 @@ GitHub repository featuring a collection of AI and Machine Learning projects. Th
 ## 📚 Project Highlights
 
 - **Stock Price Prediction with LSTM**: Utilizes LSTM networks and stochastic methods to predict stock prices based on historical data. Includes dropout for enhanced regularization.
-- **Natural Language Processing**: Projects leveraging transformer models for tasks such as text classification and sentiment analysis.
-- **Reinforcement Learning**: Exploration of algorithms like Q-learning and Deep Q Networks (DQN) applied to simple game environments.
+- **Jet-parton Matching with Attention Networks**: Leveraging SPA-Net for jet-parton matching.
+- **Emotion Classification with Principal Component Analysis and Boosted Decision Trees**:Leveraging machine learning for dimensionality reduction
 
 ## 🛠️ Technologies & Tools
 
