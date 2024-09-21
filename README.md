@@ -1,6 +1,6 @@
 # ML-AI-Projects
 
-GitHub repository featuring a collection of AI and Machine Learning projects. This repository showcases work from various independent ventures and coursework, notably from the University of Washington's PHYS 417: Machine Learning for Physicists.
+GitHub repository featuring a collection of AI and Machine Learning projects. This repository showcases work from various independent ventures and coursework, notably from the University of Washington's PHYS 417: Machine Learning for Physicists. Thank you to Professor Shih-Chieh Hsu for mentoring me and helping out with these projects. 
 
 ## 📚 Project Highlights
 
